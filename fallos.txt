@@ -1,0 +1,39 @@
+Linea 2: Faltan comillas en Lang="es"
+
+Linea 5: No se cierra el meta
+
+Linea 8: No se cierra bien el head
+
+Linea 17: No se cierra el Li
+
+Linea 26: El h2 está cerrado como un h3
+
+Linea 27: Falta cerrar la p
+
+Linea 36: No se cierra el Li
+
+Linea 39: No se cierra el Li
+
+Linea 50: Se cierra ol en lugar de ul.
+
+Linea 55: El cierre está mal cerrado (orden incorrecto)
+
+Linea 59: El h2 está mal cerrado
+
+Linea 67: Texto mal sangrado
+
+Linea 68: Falta cerrar el ul
+
+Linea 82: Faltan las comillas en la etiqueta a 
+
+Linea 83: La a no está cerrada
+
+Linea 91: Falta cerrar el Li
+
+Linea 94: Sobra un div
+
+Linea 99: Falta cerrar la p del footer
+
+Linea 102: Falta cerrar el Li
+
+Linea 107: Falta cerrar el html
