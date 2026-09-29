@@ -1,0 +1,14 @@
+linea 5: meta sin cerrar.
+linea 16: li sin cerrar.
+linea 26: h3 en lugar de h2.
+linea 27: p sin cerrar.
+linea 36: li sin cerrar.
+linea 39: li sin cerrar.
+linea 50: ol en lugar de ul.
+linea 55: i fuera de la p.
+linea 68: ul sin cerrar.
+linea 84: a sin cerrar.
+linea 92: li sin cerrar.
+linea 95: div en lugar de ul.
+linea 101: p sin cerrar.
+linea 104: li sin cerrar.
