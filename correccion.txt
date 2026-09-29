@@ -1,0 +1,41 @@
+Linea 2: <html lang="es">
+
+Linea 5: <meta name="description" content="Blog de recetas caseras">
+
+Linea 8: </head>
+
+Linea 17: <li><a href="#recetas">Recetas</a></li>
+
+Linea 26: <h2>Bienvenidos al blog</h2>
+
+Linea 27: <p>Aquí encontrarás recetas fáciles y rápidas para el día a día.</p>
+
+Linea 36: <li>4 huevos</li>
+
+Linea 39: <li>Aceite de oliva</li>
+
+Linea 46: <li>
+            Freír las patatas y la cebolla
+            <ul>
+                 <li>A fuego medio</li>
+                 <li>Removiendo de vez en cuando</li>
+            </ul>
+         </li>
+
+Linea 55: <p>Consejo: <i>dejar reposar la mezcla 5 minutos antes de cuajarla</i></p>
+
+Linea 59: <h2>Receta: Ensalada César</h2>
+
+Linea 82: <li><a href="https://instagram.com">Instagram</a></li>
+
+Linea 83: <li><a href="https://twitter.com">Twitter</a></li>
+
+Linea 84: <li><a href="https://youtube.com">YouTube</a></li>
+
+Linea 91: <li>Postres</li>
+
+Linea 94: El </div> no tiene que existir
+
+Linea 100: <p>&copy; 2026 El Rincón de las Recetas</p>
+
+Linea 103: <li>Política de privacidad</li>

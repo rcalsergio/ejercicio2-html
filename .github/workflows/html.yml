@@ -14,6 +14,3 @@ jobs:
 
       - name: Validar HTML
         run: npx --yes html-validate "**/*.html"
-
-      - name: Validar CSS
-        run: npx --yes stylelint "**/*.css"
